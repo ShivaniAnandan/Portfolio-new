@@ -98,6 +98,9 @@ header .logo i {
 header .logo:hover {
   color: #fc8c05;
 }
+.logo img{
+  width: 2.2rem;
+}
 header .navbar ul {
   list-style: none;
   display: flex;
@@ -1226,4 +1229,9 @@ form .button-area {
 
 .tawk-button {
   display: none !important;
+}
+
+.tawk-min-container{
+  display: none !important;
+  
 }
