@@ -17,17 +17,17 @@ $(document).ready(function () {
     });
 });
 
-document.addEventListener('visibilitychange',
-    function () {
-        if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Shivani Anandan";
-            $("#favicon").attr("href", "/assets/images/female.png");
-        }
-        else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
-        }
-    });
+// document.addEventListener('visibilitychange',
+//     function () {
+//         if (document.visibilityState === "visible") {
+//             document.title = "Projects | Portfolio Shivani Anandan";
+//             $("#favicon").attr("href", "/assets/images/female.png");
+//         }
+//         else {
+//             document.title = "Come Back To Portfolio";
+//             $("#favicon").attr("href", "/assets/images/favhand.png");
+//         }
+//     });
 
 
 // fetch projects start
