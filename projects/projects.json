@@ -12,7 +12,7 @@
     {
       "name": "Full Stack CourseApp Website",
       "desc": "A Full Stack Course platform built with React & Nodejs allows users to search, view courses and purchase courses easily.",
-      "image": "sppuprepandroid",
+      "image": "android",
       "category": "android",
       "links": {
         "view": "https://lighthearted-dieffenbachia-090958.netlify.app",
@@ -23,7 +23,7 @@
       "name": "Full Stack Event Management Website",
       "desc": "A Full Stack Course platform built with React & Nodejs allows users to search, view events and purchase event tickets easily.",
       "image": "newsboxandroid",
-      "category": "android",
+      "category": "eventmanagement",
       "links": {
         "view": "https://marvelous-tanuki-ec42fd.netlify.app",
         "code": "https://github.com/ShivaniAnandan/EventManagement-FrontEnd"
